@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kyleyoung1
+- 👀 I’m interested in ... learning
+- 🌱 I’m currently learning ... odin project
+- 💞️ I’m looking to collaborate on ... nothing :)
+- 📫 How to reach me ... email
